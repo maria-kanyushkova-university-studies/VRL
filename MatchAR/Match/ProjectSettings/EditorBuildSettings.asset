@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes of animation/start1.unity
+    guid: 68f45d01dba7cab4ca16d79f5bdc5bde
+  - enabled: 1
+    path: Assets/scenes of animation/start2.unity
+    guid: abc28dd4e9efce949a935fb3110aaf2e
+  - enabled: 1
+    path: Assets/Scenes/Lvl1.unity
+    guid: 33504bad8e1d8a44b8d2382d0f60bda9
+  - enabled: 1
+    path: Assets/scenes of animation/after1.unity
+    guid: ab0e2701f98fdff4b90da21147de6ff1
+  - enabled: 1
+    path: Assets/Scenes/Lvl2.unity
+    guid: 0be70f6d094604b49a136679eb309e28
+  - enabled: 1
+    path: Assets/scenes of animation/after2.unity
+    guid: 8f93eae101809864c950b412a826f6e0
+  - enabled: 1
+    path: Assets/Scenes/Lvl3.unity
+    guid: 2d1b6277a6513f84591c80ccd86b48b7
+  - enabled: 1
+    path: Assets/scenes of animation/after3.unity
+    guid: a4b10d8797adf874fbbdc2ea4a3a0236
+  - enabled: 1
+    path: Assets/Scenes/Lvl4.unity
+    guid: b6eda546441444241a1e229c3383f6e5
+  - enabled: 1
+    path: Assets/scenes of animation/after4.unity
+    guid: 89672b88caa3aed4094432f4f07becbc
+  - enabled: 1
+    path: Assets/Scenes/Lvl5.unity
+    guid: b5da598bec21fb942a1c83c74f383277
+  - enabled: 1
+    path: Assets/scenes of animation/after5.unity
+    guid: 2e0acd896a7ba7c4693763942b44030e
+  - enabled: 1
+    path: Assets/Scenes/Lvl6.unity
+    guid: 9267de63ae32f8b4eb2052788d0f5b28
+  - enabled: 1
+    path: Assets/scenes of animation/after6.unity
+    guid: ca7f1a7f237c7544bb33872d8363780a
+  - enabled: 1
+    path: Assets/Scenes/Lvl7.unity
+    guid: 19bf85012b62a2f4fb8070e43bc5148e
+  - enabled: 1
+    path: Assets/scenes of animation/after7.unity
+    guid: 75c6089dd492b5b4796cabc4d2d051e9
+  - enabled: 1
+    path: Assets/Scenes/Lvl8.unity
+    guid: b0d9e65467b642a45bd5032f7ab8cec4
+  - enabled: 1
+    path: Assets/scenes of animation/after8.unity
+    guid: b7f3f4e81ae638d4ea3f9666872b05fe
+  - enabled: 1
+    path: Assets/Scenes/Lvl9.unity
+    guid: 132f041582b1157488141892c74841b2
+  - enabled: 1
+    path: Assets/scenes of animation/after9.unity
+    guid: 509e3d562ed26d04aa5d6c27c5ac7bcb
+  - enabled: 1
+    path: Assets/Scenes/Lvl10.unity
+    guid: 12bff5631dd6ae04d880b5b45028d6bf
+  - enabled: 1
+    path: Assets/scenes of animation/after10.unity
+    guid: c876673923935064496abedb90f740f4
+  - enabled: 1
+    path: Assets/Scenes/Lvl11.unity
+    guid: 79b67666a273f0a499c96c4a0cf49c28
+  - enabled: 1
+    path: Assets/scenes of animation/after11.unity
+    guid: 9f40bdf4c13ed7049b4c752b17d84dbf
+  - enabled: 1
+    path: Assets/Scenes/Lvl12.unity
+    guid: ede459b56826cdf42af4354a9a3776f0
+  - enabled: 1
+    path: Assets/scenes of animation/after12.unity
+    guid: f48df6af69eece84ca239b1666863c2f
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6db387ea9737c3643b4efe5f5b1cec35,
+      type: 2}
